@@ -1,0 +1,7 @@
+#Sun Jan 15 18:06:48 SAMT 2017
+base.0=E\:\\Projects\\Practic\\Task 1\\Splash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7addb09a60505720e6a4a34689080a6b5fa8fbfd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Projects\\Practic\\Task 1\\Splash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14f86d0643c4a4a88b4d2035084a0ca81690a2d9\\classes.dex
+base.1=E\:\\Projects\\Practic\\Task 1\\Splash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14f86d0643c4a4a88b4d2035084a0ca81690a2d9
+file.0=E\:\\Projects\\Practic\\Task 1\\Splash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7addb09a60505720e6a4a34689080a6b5fa8fbfd\\classes.dex

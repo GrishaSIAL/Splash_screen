@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_6ae802546e5a3f761b81ae5de84cae463d8197c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="627852aca5b984ea8e8d9b837771ba2a79a588d8">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_14f86d0643c4a4a88b4d2035084a0ca81690a2d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_509926282fee96b979ed8e86a061f9ac3974e513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c623542d76f9dc0a3c39be1962c83fba59aeebb">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7addb09a60505720e6a4a34689080a6b5fa8fbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_e9b2a71a1fb68902fa4764e49f1511bffb57aab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Projects\Practic\Task 1\Splash\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_a5c053a1a9809cc0b31094b9314bb0fd8dc2aae6\classes.dex" />
+    </item>
+
+</items>

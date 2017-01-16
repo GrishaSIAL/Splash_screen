@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="gray">#444440</color>
+
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="light_blue" type="color">#87ceeb</item>
+    <item name="dark_blue" type="color">#00008b</item>
+    <item name="purple" type="color">#FFAA66CC</item>
 </resources>
